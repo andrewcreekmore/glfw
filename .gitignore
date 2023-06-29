@@ -1,6 +1,10 @@
 # The canonical out-of-tree build subdirectory
 build
 
+# Engine-specific build subdirs
+bin
+bin-int
+
 # Visual Studio clutter
 _ReSharper*
 *.sdf
@@ -98,10 +102,5 @@ tests/threads
 tests/timeout
 tests/title
 tests/triangle-vulkan
-
-# Engine-specific
-bin
-bin-int
 tests/window
 tests/windows
-

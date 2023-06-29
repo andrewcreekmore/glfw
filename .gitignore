@@ -1,6 +1,3 @@
-# The canonical out-of-tree build subdirectory
-build
-
 # Engine-specific build subdirs
 bin
 bin-int

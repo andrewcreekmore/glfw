@@ -98,6 +98,10 @@ tests/threads
 tests/timeout
 tests/title
 tests/triangle-vulkan
+
+# Engine-specific
+bin
+bin-int
 tests/window
 tests/windows
 

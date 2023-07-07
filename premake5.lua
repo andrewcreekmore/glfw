@@ -18,10 +18,6 @@ project "GLFW"
 		"src/vulkan.c",
 		"src/window.c"
 	}
-		defines
-		{
-			"_GLFW_X11"
-		}
 
 	filter "system:windows"
 		systemversion "latest"
